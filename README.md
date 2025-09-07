@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Pooja Lengare
-**A passionate Android Developer || Backend Enthusiast || RDBMS Learner from India**
+**A passionate Android Developer || Backend Enthusiast**
 
 📩 Email Me 👉 ✉️ **poojalengare99@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Android Development Projects  
-- 🌱 **I’m currently learning:** Android Development, Backend Development, RDBMS  
+- 🌱 **I’m currently learning:** Android Development, Backend Development  
 - 👯 **I’m looking to collaborate on:** App Development and Database-related Projects  
 - 🤔 **I’m looking for help with:** Exploring Advanced Backend Development Concepts  
 - 💬 **Ask me about:** Android, Databases, and Learning Resources  
